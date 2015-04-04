@@ -6,3 +6,5 @@ x=--x;
 final answer =0
 solution:
 in post increment the value is incremented first and then the old value before iincrememting is assigned to x. so after incrementing it is 1 but then 0 is assigned back to x.
+
+My commit
